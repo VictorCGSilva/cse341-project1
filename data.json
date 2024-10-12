@@ -1,0 +1,37 @@
+[
+    {
+      "firstName": "Carl",
+      "lastName": "Hernandes",
+      "email": "car.des@go.com",
+      "favoriteColor": "Purple",
+      "birthday": "1985-01-07"
+    },
+    {
+      "firstName": "Otto",
+      "lastName": "Tompson",
+      "email": "otto.to@go.com",
+      "favoriteColor": "Purple",
+      "birthday": "1991-09-20"
+    },
+    {
+      "firstName": "Charles",
+      "lastName": "Leclerc",
+      "email": "lordperceval@go.com",
+      "favoriteColor": "Green",
+      "birthday": "1987-07-03"
+    },
+    {
+      "firstName": "Magnum",
+      "lastName": "Martins",
+      "email": "martins.martins@go.com",
+      "favoriteColor": "Blue",
+      "birthday": "1981-11-11"
+    },
+    {
+      "firstName": "Marcos",
+      "lastName": "Silva",
+      "email": "silvamarcos@go.com",
+      "favoriteColor": "Red",
+      "birthday": "1991-02-12"
+    }
+  ]
